@@ -1,4 +1,4 @@
-ios_experiments
+#ios_experiments
 ===============
 
 Trying out new things using Swift and Xcode6
@@ -7,9 +7,9 @@ Quite a few new things to learn and many videos to watch from WWDC 14. Plus with
 
 I'll keep a list of ideas here (ideas from videos, blogs, tutorials , or my own) and add code when I finally try them out (if I try them out!). 
 
-##Playgrounds
+###Playgrounds
 
-##Swift Language Features
+###Swift Language Features
 
 - Extensions
 - Subscripts
@@ -18,19 +18,30 @@ I'll keep a list of ideas here (ideas from videos, blogs, tutorials , or my own)
 - Switch satements with where clauses and pattern matching
 - Generics
 
-##Interface Builder
+###Interface Builder
 
 - @ibinspectable (setup and design a view using live view)
 - Liveness:
 - Adaptability:
-- 
 
-##Advanced iOS application patterns
+###Advanced iOS application patterns
 
-##Core iOS Application Architecture
+###Core iOS Application Architecture
 
-##View Controller Enhancements
+###View Controller Enhancements
 
-##Building Modern Frameworks
+###Building Modern Frameworks
 
-##What's new in XCode6
+###What's new in XCode6
+
+###MVVM 
+
+- http://www.objc.io/issue-13/mvvm.html (testable, eh?)
+- http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/
+- http://cocoasamurai.blogspot.ca/2013/03/basic-mvvm-with-reactivecocoa.html
+
+###Reactive Cocoa 
+
+
+
+###Other stuff
